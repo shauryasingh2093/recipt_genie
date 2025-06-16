@@ -1,2 +1,5 @@
-# recipt_genie
- Developed a Python-Tkinter desktop app for Raja Hotel to automate billing. Features include customer input, item selection, tax calculation, dynamic receipt generation, and print/save/reset options. Offers a clean GUI for efficient hotel billing workflows.
+# Simple-pos-System-KFC
+Simple pos System like KFC cafe fastfood shop
+
+youtu.be/gDbuwFkEdUQ
+![poskfc](https://user-images.githubusercontent.com/45946252/170657457-3f6de768-c865-4520-aa8f-8837fb23fcd4.jpg)
